@@ -1,11 +1,13 @@
 MinecraftForge Documentation
 ============================
 
-This is the official documentation for [MinecraftForge], the Minecraft modding API.
 
-This documentation is _only_ for Forge, **this is not a Java tutorial**.
+日本語化を行った、Minecraftのmod作成APIである[MinecraftForge]のドキュメントです。
+<!--This is the official documentation for [MinecraftForge], the Minecraft modding API.-->
 
-Contribute to the docs at [GitHub].
+このドキュメントはMinecraftForgeについて*のみ*扱っています。**Javaのチュートリアルではありません!**
+
+参画されたい場合は[GitHub]を参照してください。
 
 [MinecraftForge]: http://minecraftforge.net
-[GitHub]: http://github.com/MinecraftForge/Documentation
+[GitHub]: http://github.com/karakufire/Documentation
